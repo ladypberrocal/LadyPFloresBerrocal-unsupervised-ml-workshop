@@ -110,7 +110,7 @@ El modelo alcanzó una precisión perfecta (100%), demostrando una excelente cap
 |-------------------|--------|
 | Entrenamiento | 1.0000 |
 | Prueba | 1.0000 |
-| Diferencia (train - test) | 0.0000 |
+| Overfitting (train - test) | 0.0000 |
 
 ✅ **Conclusión:**  
 No se detecta overfitting significativo.  
